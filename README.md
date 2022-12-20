@@ -17,9 +17,19 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
+```
+input1 = input()
+input2 = input()
+temp = input2
+input2 = input1
+input1 = temp
+print("Swapped values are: {} {}".format(input1,input2))
+```
 
-
+## OUTPUT:
+![OUTPUT](./images/pythonass.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
