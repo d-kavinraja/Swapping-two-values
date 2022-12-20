@@ -31,7 +31,8 @@ x = y
 y = temp
 print("Swapped values are:",x,y)
 ## OUTPUT:
-![OUTPUT](/Swapping-two-values/images/swapp.png)
+file:///home/sec/Assignment/Swapping-two-values/images/swapp.png![image](https://user-images.githubusercontent.com/119875375/208717491-e694a732-1444-4baf-82d9-6f1ba452204e.png)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
