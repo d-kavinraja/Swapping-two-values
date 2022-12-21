@@ -21,9 +21,17 @@ Print both the values it would be interchanged
 End the program
 
 ## PROGRAM:
+```
+x = eval(input())
+y = eval(input())
+temp = x
+x = y
+y = temp
+print("Swapped values are:",x,y)
+```
 
 ## OUTPUT:
-
+![OUTPUT](./images/swapp.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
